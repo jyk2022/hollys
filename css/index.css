@@ -666,7 +666,7 @@ ol {
 /* footer */
 footer {
   font-weight: 500;
-  font-size: medium;
+  font-size: 0.7rem;
   width: 100%;
   background-color: #f24d6c;
 }
@@ -724,9 +724,6 @@ footer .a img {
 }
 
 /*a가 움직이지 않게 하는 코드 */
-
-@media all and (max-width: 1600px) {
-} /* 1600px*/
 
 @media all and (max-width: 1025px) {
   #section2 .panels {
